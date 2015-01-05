@@ -114,8 +114,8 @@
    <text xml:lang="eng">
       <front>
          <div type="title_page">
-            <pb facs="tcp:000319_0000_0FA4AEBE94A431E8"/>
-            <pb facs="tcp:000319_0001_0FA4AEBFF9F8C260"/>
+            <pb facs="unknown:000319_0000_0FA4AEBE94A431E8"/>
+            <pb facs="unknown:000319_0001_0FA4AEBFF9F8C260"/>
             <p>A POEM <hi>Dedicated to the Memory</hi> OF The Reverend and Excellent Mr. <hi>URIAN OAKES,</hi> the late Pastor to Christ's Flock, and Praesident of Harvard-Colledge, <hi>in Cambridge,</hi> Who was gathered to his People on 25<hi rend="sup">d</hi> 5<hi rend="sup">mo</hi> 1681. In the fifty'th Year of his Age.</p>
             <q>
                <bibl>1 Sam. 25. 1.</bibl>
@@ -135,7 +135,7 @@
                <hi>BOSTON IN NEW-ENGLAND,</hi> Printed for <hi>John Ratcliff.</hi> 1682.</p>
          </div>
          <div type="to_the_reader">
-            <pb facs="tcp:000319_0002_0FA4AEC0ABB3C650"/>
+            <pb facs="unknown:000319_0002_0FA4AEC0ABB3C650"/>
             <head>TO THE READER</head>
             <lg>
                <l>WOrthies <hi>to</hi> Praise <hi>is a</hi> Praise worthy thing;</l>
@@ -205,7 +205,7 @@
                   <hi>Just like the</hi> Trojans <hi>who came late to see</hi>
                </l>
                <l>
-                  <pb facs="tcp:000319_0003_0FA4AEC1A91885E8"/>
+                  <pb facs="unknown:000319_0003_0FA4AEC1A91885E8"/>
                   <hi>And sorrow with</hi> Tiberius!—<hi>Only this</hi>
                </l>
                <l>
@@ -226,7 +226,7 @@
       </front>
       <body>
          <div type="poem">
-            <pb n="1" facs="tcp:000319_0004_0FA4AEC22DD4AA80"/>
+            <pb n="1" facs="unknown:000319_0004_0FA4AEC22DD4AA80"/>
             <head>Memoirs of the Life and Worth: Lamentations for the Death, and Loss of the every way admirable Mr. URIAN OAKES.</head>
             <lg>
                <l>WEep with me, Reader! Never <hi>Poet</hi> had</l>
@@ -250,7 +250,7 @@
                <l>But look! th' <hi>Almightye'</hi>s <hi>Rod</hi> now smites us home</l>
                <l>Oh! what <hi>Man</hi> won't a <hi>Mourner</hi> now become?</l>
                <l>
-                  <pb n="2" facs="tcp:000319_0005_0FA4AEC304C59690"/>
+                  <pb n="2" facs="unknown:000319_0005_0FA4AEC304C59690"/>
 Dear Saint! I cannot but thy Herse bedew</l>
                <l>With dropping of some <hi>Fun'ral Tears!</hi> I Rue</l>
                <l>Thy Death! I must, <hi>My Father! Father!</hi> say,</l>
@@ -302,7 +302,7 @@ Dear Saint! I cannot but thy Herse bedew</l>
                </l>
                <l>Of thy short Life before thy Day was done</l>
                <l>
-                  <pb n="3" facs="tcp:000319_0006_0FA4AEC3B66C3870"/>
+                  <pb n="3" facs="unknown:000319_0006_0FA4AEC3B66C3870"/>
 Might <hi>backward Ten Degrees</hi> have moved! or</l>
                <l>Oh! that thy <hi>Corps</hi> might but have chanced for</l>
                <l>To have been buried near <hi>Elisha'</hi>s <hi>bones!</hi>
@@ -362,7 +362,7 @@ Might <hi>backward Ten Degrees</hi> have moved! or</l>
                </l>
                <l>Attain'd, and could pretend far more than!</l>
                <l>
-                  <pb n="4" facs="tcp:000319_0007_0FA4AEC4C5822418"/>
+                  <pb n="4" facs="unknown:000319_0007_0FA4AEC4C5822418"/>
                   <hi>Short</hi> was thy <hi>Life!</hi> Sweet Saint! &amp; quickly run</l>
                <l>Thy <hi>Race!</hi> Thy Work was, oh! how quickly done!</l>
                <l>Thy <hi>Dayes</hi> were (<hi>David'</hi>s <hi>measure</hi>) but a <hi>Span;</hi>
@@ -414,7 +414,7 @@ Might <hi>backward Ten Degrees</hi> have moved! or</l>
                   <hi>Those wings would thither carry Urian.</hi>
                </l>
                <l>
-                  <pb n="5" facs="tcp:000319_0008_0FA4AEC5304E6CB0"/>
+                  <pb n="5" facs="unknown:000319_0008_0FA4AEC5304E6CB0"/>
 Prompt <hi>Parts,</hi> and early <hi>Piety</hi> now made</l>
                <l>Men say of him, what once observers said</l>
                <l>Of great <hi>John Baptist,</hi> and of <hi>Ambrose</hi> too,</l>
@@ -455,7 +455,7 @@ Prompt <hi>Parts,</hi> and early <hi>Piety</hi> now made</l>
                <l>Fire, Death, and Hell against Impenitent</l>
                <l>Desp'rates, untill hee made their hearts relent.</l>
                <l>
-                  <pb n="6" facs="tcp:000319_0009_0FA4AEC5EB4ECEA8"/>
+                  <pb n="6" facs="unknown:000319_0009_0FA4AEC5EB4ECEA8"/>
 There did hee merit <hi>Sibs'</hi>s Motto, <hi>I</hi>
                   <note place="margin">Praelucendo perco.</note>
                </l>
@@ -494,7 +494,7 @@ There did hee merit <hi>Sibs'</hi>s Motto, <hi>I</hi>
                <l>" Must be resolv'd; I'le <hi>Pray</hi> and <hi>Send!</hi> Agreed!</l>
                <l>Messengers go! and calling <hi>Council,</hi> speed!</l>
                <l>
-                  <pb n="7" facs="tcp:000319_0010_0FA4AEC6A9193998"/>
+                  <pb n="7" facs="unknown:000319_0010_0FA4AEC6A9193998"/>
 The good <hi>Stork</hi> over the <hi>Atlantic</hi> came</l>
                <l>To nourish and cherish his Aged <hi>Dam.</hi>
                </l>
@@ -541,7 +541,7 @@ The good <hi>Stork</hi> over the <hi>Atlantic</hi> came</l>
                   <hi>Tour Illness, you'd as good have none at all.</hi>
                </l>
                <l>
-                  <pb n="8" facs="tcp:000319_0011_0FA4AEC7733FD7B0"/>
+                  <pb n="8" facs="unknown:000319_0011_0FA4AEC7733FD7B0"/>
 Well! the poor Colledge faints! <hi>Harvard</hi> almost</l>
                <l>(An <hi>Amnesty</hi> cryes '<hi>st!</hi>) gives up the ghost!</l>
                <l>The <hi>branches</hi> dwindle! But an <hi>OAK</hi> so near</l>
@@ -584,7 +584,7 @@ Well! the poor Colledge faints! <hi>Harvard</hi> almost</l>
                   <hi>Letany</hi> prayes 'gainst, <hi>To dy Suddenlie.</hi>
                </l>
                <l>
-                  <pb n="9" facs="tcp:000319_0012_0FA4AEC8E65FFD68"/>
+                  <pb n="9" facs="unknown:000319_0012_0FA4AEC8E65FFD68"/>
 The Saints hope to have the <hi>Lord's Table</hi> spread;</l>
                <l>But with astonishment they find him <hi>dead</hi>
                </l>
@@ -631,7 +631,7 @@ The Saints hope to have the <hi>Lord's Table</hi> spread;</l>
                <l>" When I to that Assembly come; and am</l>
                <l>"Gone from a world of guilt, filth, sorrow, shame!</l>
                <l>
-                  <pb n="10" facs="tcp:000319_0013_0FA4AEC8F6C583D0"/>
+                  <pb n="10" facs="unknown:000319_0013_0FA4AEC8F6C583D0"/>
 I read how Swan-like <hi>Cotton</hi> joy'd in Thought,</l>
                <l>That unto <hi>Dod,</hi> and such he should be brought.</l>
                <l>How <hi>Ballinger</hi> deaths grim looks could not fright</l>
@@ -677,7 +677,7 @@ I read how Swan-like <hi>Cotton</hi> joy'd in Thought,</l>
                </l>
                <l>(Almost too <hi>small</hi> a word!) which <hi>Cambridge</hi> can</l>
                <l>
-                  <pb n="11" facs="tcp:000319_0014_0FA4AECA7193F0B8"/>
+                  <pb n="11" facs="unknown:000319_0014_0FA4AECA7193F0B8"/>
 Say, I have lost! In <hi>Name</hi> a <hi>Drusius,</hi>
                </l>
                <l>And <hi>Nature</hi> too! yea a compendious</l>
@@ -728,7 +728,7 @@ Say, I have lost! In <hi>Name</hi> a <hi>Drusius,</hi>
                      <hi>So stiled by Mr.</hi> Burroughs.</note> Humble <hi>Dod,</hi> cry'd, <hi>Know,</hi>
                </l>
                <l>
-                  <pb n="12" facs="tcp:000319_0015_0FA4AECB26782CD0"/>
+                  <pb n="12" facs="unknown:000319_0015_0FA4AECB26782CD0"/>
                   <hi>Just at Humility mens Grace will bee,</hi>
                </l>
                <l>
@@ -790,7 +790,7 @@ Say, I have lost! In <hi>Name</hi> a <hi>Drusius,</hi>
                   <hi>A better Preacher while wee have a beeing.</hi>
                </l>
                <l>
-                  <pb n="13" facs="tcp:000319_0016_0FA4AECFF67400A0"/>
+                  <pb n="13" facs="unknown:000319_0016_0FA4AECFF67400A0"/>
                   <hi>Hee!</hi> Oh! <hi>Hee</hi> was, in <hi>Doctrine, Life,</hi> and an</l>
                <l>
                   <hi>Angelical,</hi> and <hi>Evangelical.</hi>
@@ -833,7 +833,7 @@ Say, I have lost! In <hi>Name</hi> a <hi>Drusius,</hi>
                <l>And now let <hi>sable Cambridge</hi> broach her Tears!</l>
                <l>(They <hi>forfeit</hi> their own <hi>Eyes</hi> that don't; for here's</l>
                <l>
-                  <pb n="14" facs="tcp:000319_0017_0FA4AED2CA79CB10"/>
+                  <pb n="14" facs="unknown:000319_0017_0FA4AED2CA79CB10"/>
                   <gap reason="illegible: indecipherable" extent="1 word">
                      <desc>〈◊〉</desc>
                   </gap> sad enough!) Your <hi>Sons</hi> pray call</l>
@@ -891,7 +891,7 @@ Say, I have lost! In <hi>Name</hi> a <hi>Drusius,</hi>
                </l>
                <l>(Reader! and thy good leave) address to all</l>
                <l>
-                  <pb n="15" facs="tcp:000319_0018_0FA4AED45A7C49E8"/>
+                  <pb n="15" facs="unknown:000319_0018_0FA4AED45A7C49E8"/>
 The children of my People! Oh! the <hi>Name</hi>
                </l>
                <l>Of <hi>Urian Oakes,</hi> New-England! does proclame</l>
@@ -936,7 +936,7 @@ The children of my People! Oh! the <hi>Name</hi>
                <l>
                   <hi>Dissolv'd</hi> with Christ! Send <hi>Tim'thees</hi> in their room!</l>
                <l>
-                  <pb n="16" facs="tcp:000319_0019_0FA4AED5068C1DF0"/>
+                  <pb n="16" facs="unknown:000319_0019_0FA4AED5068C1DF0"/>
 Avert the <hi>Omen,</hi> that when <hi>Teeth</hi> apace</l>
                <l>Fall out, No <hi>new one</hi> should supply their place!</l>
                <l>Lord! Lett us <hi>Peace</hi> on this our <hi>Israel</hi> see!</l>
